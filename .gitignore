@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.so
+*.o
+*.a
+*.out
+*.log
+
+# PyTorch extensions
+.cache/
+torch_extensions/
+
+# Python virtual envs
+venv/
+.env/
+
+# Build artifacts
+build/
+dist/
+
+# OS
+.DS_Store
